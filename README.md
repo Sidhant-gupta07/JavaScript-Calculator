@@ -10,7 +10,6 @@ mo-link)
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Project Structure](#project-structure)
@@ -27,10 +26,6 @@ This is a simple JavaScript calculator project designed to perform basic arithme
 - Clear input and reset functionality.
 - Display of current input and calculated results.
 - A responsive and user-friendly design.
-
-## Demo
-
-You can try out a live demo of the calculator project [here](#your-demo-link](https://codepen.io/Sidhant-Gupta/pen/ZEVPPWY)).
 
 ## Technologies Used
 
