@@ -19,7 +19,7 @@ Display of current input and calculated results.
 A responsive and user-friendly design.
 
 Demo
-You can try out a live demo of the calculator project here.
+You can try out a live demo of the calculator project here: (https://codepen.io/Sidhant-Gupta/pen/ZEVPPWY).
 
 Calculator Demo
 
