@@ -30,7 +30,7 @@ This is a simple JavaScript calculator project designed to perform basic arithme
 
 ## Demo
 
-You can try out a live demo of the calculator project [here]([#your-demo-link](https://codepen.io/Sidhant-Gupta/pen/ZEVPPWY)).
+You can try out a live demo of the calculator project [here](#your-demo-link](https://codepen.io/Sidhant-Gupta/pen/ZEVPPWY)).
 
 ## Technologies Used
 
