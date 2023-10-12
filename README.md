@@ -32,7 +32,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/calculator-project.git
+git clone https://github.com/Sidhant-gupta07/JavaScript-Calculator.git
 Open the project directory.
 
 Launch the index.html file in a web browser.
