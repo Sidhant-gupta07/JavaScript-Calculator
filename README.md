@@ -2,7 +2,7 @@
 Calculator Project README
 Table of Contents
  .Introduction
-Features
+ Features
 Demo
 Technologies Used
 How to Use
